@@ -1,4 +1,3 @@
-// app/listView.js - Destinations List Screen
 import {
   View,
   Text,
@@ -8,7 +7,6 @@ import {
 } from "react-native";
 import { useRouter } from "expo-router";
 
-// Sample destinations data
 const destinations = [
   {
     id: 1,

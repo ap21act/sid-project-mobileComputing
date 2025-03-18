@@ -1,4 +1,3 @@
-// app/addItem.js - Add Destination Form
 import {
   View,
   Text,

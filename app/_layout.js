@@ -14,16 +14,10 @@ export default function RootLayout() {
         name="addItem"
         options={{
           headerShown: true,
-          headerTitle: "Add New Book",
+          headerTitle: "Add New Destination",
           presentation: "modal",
         }}
       />
     </Stack>
   );
 }
-
-// app/index.js - Welcome/Splash Screen
-
-// app/listView.js - List Screen
-
-// app/addItem.js - Add Form Screen
